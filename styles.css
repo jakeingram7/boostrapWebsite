@@ -1,0 +1,45 @@
+.store-heading {
+    text-align: center;
+    text-shadow: 25in;
+}
+
+.jordan-bomber { 
+    height: 250px;
+    width: 250px;
+}
+
+.col-sm {
+    text-align: center;
+}
+
+.racing-shirt {
+    height: 250px;
+    width: 250px;
+}
+
+.golf-pants {
+    height: 250px;
+    width: 250px;
+}
+
+.disco-pants {
+    height: 250px;
+    width: 250px;  
+}
+
+.about-head {
+    text-align: center;
+}
+
+.about-para {
+    text-align: center;
+    margin-top: 45px;
+    margin-bottom: 45px;
+}
+.container-fluid {
+    margin-top: 50px;
+}
+
+.table-heading {
+    text-align: center;
+}
